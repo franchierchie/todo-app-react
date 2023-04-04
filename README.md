@@ -12,4 +12,4 @@ yarn dev
 
 ### Live example
 
-Click [here](https://magenta-kataifi-231c3e.netlify.app/)
+Click [here](https://scintillating-pavlova-194b7e.netlify.app/)
